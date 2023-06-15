@@ -16,3 +16,32 @@ git clone https://github.com/EmanuelTFF/calculadora.git
  ```
 
  ![imagem]( https://img.freepik.com/fotos-gratis/paisagem-ensolarada-lago_1112-155.jpg)
+
+ - item 1
+ - item 2
+    - sub item 1
+    - sub item 2
+
+Exemplo de Listas Numeradas
+1. item 1
+2. item 2
+    1. sub item 1
+    2. sub item 2
+
+inserir link
+
+Acesse o [google](htpps://google.com)
+ou acesse [Spotfy](https://spotfy.com)
+
+#### caixas de check 
+- [ ] Fazer a tela de login
+- [ ] Criar a tela de calculo
+- [ ] criar a tela de históricos
+
+
+#### Tabelas
+
+| Coluna 1 | coluna 2|
+| -------- | ------- |
+| valor 1  | valor 2 |
+| valor 3  | valor 4 |
