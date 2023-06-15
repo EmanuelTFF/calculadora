@@ -34,9 +34,9 @@ Acesse o [google](htpps://google.com)
 ou acesse [Spotfy](https://spotfy.com)
 
 #### caixas de check 
-- [ ] Fazer a tela de login
-- [ ] Criar a tela de calculo
-- [ ] criar a tela de históricos
+- [x] Fazer a tela de login
+- [x] Criar a tela de calculo
+- [x] criar a tela de históricos
 
 
 #### Tabelas
